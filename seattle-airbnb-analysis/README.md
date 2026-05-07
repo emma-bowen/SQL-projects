@@ -3,7 +3,7 @@
 ## Overview
 
 ## Goal
-What affects pricing of airbnbs in Seattle? How do neighborhoods, time of year, and reviews affect overall price trends?
+What affects pricing of airbnbs in Seattle in 2025? How do neighborhoods, time of year, and reviews affect overall price trends in 2025?
 
 ## Data Source and information
 - This dataset, *Seattle Airbnb Open Data - SQL Project* was sourced from Kaggle and was created by Sharmaine Wong
